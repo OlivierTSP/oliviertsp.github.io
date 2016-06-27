@@ -1,4 +1,4 @@
-﻿
+
 /*=============================================================
     Authour URI: www.binarytheme.com
     License: Commons Attribution 3.0
@@ -125,14 +125,14 @@ margin-bottom: 10px;
 
 
 .myButton {
-	-moz-box-shadow: 0px -19px 0px -50px #f0f7fa;
-	-webkit-box-shadow: 0px -19px 0px -50px #f0f7fa;
-	box-shadow: 0px -19px 0px -50px #f0f7fa;
-	background-color:#33bdef;
+	-moz-box-shadow: 0px -19px 0px -50px #ffffff;
+	-webkit-box-shadow: 0px -19px 0px -50px #ffffff;
+	box-shadow: 0px -19px 0px -50px #ffffff;
+	background-color:transparent;
 	-moz-border-radius:6px;
 	-webkit-border-radius:6px;
 	border-radius:6px;
-	border:1px solid #057fd0;
+	border:2px solid #ffffff;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
@@ -143,7 +143,7 @@ margin-bottom: 10px;
 	text-decoration:none;
 }
 .myButton:hover {
-	background-color:#019ad2;
+	background-color:#ffffff;
 }
 .myButton:active {
 	position:relative;
