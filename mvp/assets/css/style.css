@@ -141,6 +141,7 @@ margin-bottom: 10px;
 	font-weight:bold;
 	padding:25px 75px;
 	text-decoration:none;
+	position: relative;
 }
 .myButton:hover {
 	background-color:#ffffff;
@@ -150,24 +151,7 @@ margin-bottom: 10px;
 	top:1px;
 }
 
-button {
 
-  color: black;
-  background: #ffffff;
-  font-weight: bold;
-  font-size : 15px;
-  border: 1px solid black;
-  height : 100px;
-  width : 180px;
-  vertical-align: center;
-	text-align: center;
-	 -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-
-    text-decoration: none;
-    color: initial;
-}
 /*=======================================
     BOOTSTRAP STYLES
 ==================================================*/
@@ -208,7 +192,7 @@ background-size: cover;
 width: 100%;
 display: block;
 height: auto;
-   min-height:650px;
+   min-height:575px;
     color:#fff;
 }
 .head-main {
@@ -263,10 +247,10 @@ color: #FFFFFF;
 
 
 #footer {
-    background-color:#0086cd;
+    background-color:#585656;
     color:#fff;
-    padding:20px 50px 20px 50px;
-    text-align:right;
+    padding:20px 20px 20px 20px;
+    text-align:center;
 }
 
 
