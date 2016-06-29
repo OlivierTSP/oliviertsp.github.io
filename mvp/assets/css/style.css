@@ -50,7 +50,7 @@ h2 {
 h3 {
     line-height:30px;
     padding:5px;
-    font-weight:bold;
+	font-weight: bold;
 }
 h4 {
    padding-top: 5px;
@@ -126,17 +126,17 @@ margin-bottom: 10px;
 
 
 .myButton {
-	-moz-box-shadow: 0px -19px 0px -50px #ffffff;
-	-webkit-box-shadow: 0px -19px 0px -50px #ffffff;
-	box-shadow: 0px -19px 0px -50px #ffffff;
-	background-color:transparent;
+	-moz-box-shadow: 0px -19px 0px -50px #585656;
+	-webkit-box-shadow: 0px -19px 0px -50px #585656;
+	box-shadow: 0px -19px 0px -50px #585656;
+	background-color:#ffffff;
 	-moz-border-radius:6px;
 	-webkit-border-radius:6px;
 	border-radius:6px;
-	border:2px solid #ffffff;
+	border:6px solid ##585656;
 	display:inline-block;
 	cursor:pointer;
-	color:#ffffff;
+	color:#585656;
 	font-family:Trebuchet MS;
 	font-size:15px;
 	font-weight:bold;
@@ -145,7 +145,8 @@ margin-bottom: 10px;
 	position: relative;
 }
 .myButton:hover {
-	background-color:#ffffff;
+	background-color:#585656;
+	color:#ffffff;
 }
 .myButton:active {
 	position:relative;
